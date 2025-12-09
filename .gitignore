@@ -1,0 +1,14 @@
+# Ignore all raw and generated data
+data/
+results/
+
+# Ignore large exports
+*.csv
+*.json
+
+# Do NOT ignore notebooks
+!notebooks/
+
+# Python/cache files
+__pycache__/
+.ipynb_checkpoints/
