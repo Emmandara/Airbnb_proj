@@ -174,6 +174,28 @@ The combined **LLM and NLP analysis** highlights:
 - Signals indicating whether the market is suitable for Airbnb investment
 
 ---
+## Business Impact
+
+This analysis demonstrates how guest reviews and listing metadata can be used to:
+
+- Identify characteristics of high-performing Airbnb listings
+- Detect recurring problems in poorly rated properties
+- Provide actionable improvement suggestions for hosts
+- Support real estate investment decisions
+
+These insights could help investors evaluate whether a market presents a viable short-term rental opportunity.
+---
+## Key Skills Demonstrated
+
+- Data Cleaning & Preprocessing (Pandas)
+- Exploratory Data Analysis
+- Natural Language Processing (spaCy)
+- Large Language Model Integration
+- Data Visualisation
+- Text Analytics
+- Python Workflow Development
+
+---
 
 ## Running the Project
 
